@@ -1,106 +1,121 @@
 <div align="center">
 
-# 👨‍💻 Arthur Victor
+# Arthur Victor
 
-### Desenvolvedor Backend • .NET • C# • Python
+### Desenvolvedor Backend
 
-Construindo APIs robustas, sistemas empresariais e soluções escaláveis.
+Construindo APIs, ERPs, PDVs e plataformas de Delivery com .NET.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Backend+.NET;Especialista+em+APIs+REST;ERP+%7C+PDV+%7C+Food+Delivery;Estudando+Python+e+FastAPI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Desenvolvedor+Backend;Construindo+APIs+com+.NET;ERP+%7C+PDV+%7C+Food+Delivery;Aprendendo+Python+e+FastAPI" />
 
 </div>
 
 ---
 
-# 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou desenvolvedor backend apaixonado por tecnologia e por resolver problemas reais através de software.
+Sou desenvolvedor backend focado no desenvolvimento de sistemas de gestão e APIs para aplicações reais.
 
-Atuo principalmente com o ecossistema .NET, desenvolvendo soluções para:
+Meu principal ecossistema é o **.NET**, onde desenvolvo soluções para **ERP**, **PDV**, **Food Delivery** e sistemas empresariais.
 
-* 🏪 ERP
-* 🍔 Food Delivery
-* 💳 PDV
-* 📦 Sistemas de Gestão
-* 🔗 Integrações entre sistemas
-* ☁️ APIs escaláveis
-
-Atualmente estou expandindo meus conhecimentos em **Python** e **FastAPI**, explorando arquiteturas modernas, microsserviços e sistemas distribuídos.
+Atualmente estou aprofundando meus estudos em **Python** e **FastAPI**, além de arquitetura de software, mensageria e sistemas distribuídos.
 
 ---
 
-# 🛠️ Tecnologias
+## 🚀 Tecnologias
 
 <div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,postgres,python,docker,git,visualstudio" />
 
 </div>
 
----
-
-# 📊 Estatísticas
+<br>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=3emeart&show_icons=true&hide_border=true"/>
+<img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" height="60" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3emeart&layout=compact&hide_border=true"/>
+    
+
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="60" />
 
 </div>
 
 ---
 
-# 🎯 Atualmente focado em
-
-* Arquitetura de Software
-* ASP.NET Core
-* Entity Framework Core
-* PostgreSQL
-* RabbitMQ
-* Microsserviços
-* Python
-* FastAPI
-
----
-
-# 💼 Projetos que gosto de construir
+## 🛠️ Stack Principal
 
 ```txt
-✔ APIs REST
-✔ ERP
-✔ PDV
-✔ Food Delivery
-✔ Multi-Tenant SaaS
-✔ Sistemas de Gestão
-✔ Microsserviços
-✔ Integrações com Pagamentos
-✔ Mensageria com RabbitMQ
+.NET
+C#
+ASP.NET Core
+Entity Framework Core
+
+MySQL
+PostgreSQL
+
+RabbitMQ
+
+Python
+FastAPI
 ```
 
 ---
 
-# 📈 Atividade
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=3emeart&show_icons=true&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3emeart&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 💼 Áreas de atuação
+
+* APIs REST
+* Sistemas ERP
+* Sistemas PDV
+* Food Delivery
+* Sistemas Multi-Tenant
+* Integrações entre sistemas
+* Mensageria
+* Arquitetura Backend
+
+---
+
+## 📚 Atualmente estudando
+
+* Python
+* FastAPI
+* Microsserviços
+* Arquitetura de Software
+* Sistemas Distribuídos
+
+---
+
+## 📈 Contribuições
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=3emeart" />
+
+</div>
+
+---
+
+## 🎯 Objetivo
+
+Continuar evoluindo como desenvolvedor backend, construindo software confiável, escalável e capaz de resolver problemas reais de negócio.
 
 ---
 
 <div align="center">
 
-### "Transformando regras de negócio em software confiável e escalável."
+### "Software bom resolve problemas. Software excelente resolve problemas sem criar outros."
 
 </div>
